@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Play.Service.Catalog": {
+    "Play.Catalog.Service": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "https://localhost:7253;http://localhost:5031"
+      "applicationUrl": "https://localhost:7021;http://localhost:5207"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -31,8 +31,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:29361",
-      "sslPort": 44337
+      "applicationUrl": "http://localhost:32333",
+      "sslPort": 44304
     }
   }
 }
